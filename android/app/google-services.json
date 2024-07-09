@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684915101756",
+    "project_id": "callapp-69684",
+    "storage_bucket": "callapp-69684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684915101756:android:dde63e059b00c16e113339",
+        "android_client_info": {
+          "package_name": "com.example.call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgzitwG3jDWcC70NTryDHXwmO34ZId8V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
